@@ -38,7 +38,7 @@ code.remark-code {
 .remark-slide-number {
 }
 
-#1slide-cron-queueworker code.remark-code {
-	font-size: 100%;
-	line-height: 120%;
+#slide-batch-summary .batch-process-img img {
+  width: 550px;
+  padding: 10px 0px 0px 20px;
 }
